@@ -1,4 +1,5 @@
-test
+kontakt@krzysztofmagiera.com
 
-link do repo
+kontakt@jobbarter.pl
 
+kontakt@pracabarter.pl
