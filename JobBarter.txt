@@ -1,2 +1,15 @@
 JobBarter.txt
 25_12_2023
+
+Założenia:
+
+
+Wymagania:
+
+
+
+Funkcjonalności:
+
+
+
+Zadania:
